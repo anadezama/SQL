@@ -18,5 +18,5 @@ In this course you'll learn essential concepts that you need to know to build SS
 
 This course is broken down into 21 Modules with each module providing source code so that you can follow along with Kameswara Sarma Uppuluri.
 
-**link: **
+**link:**
 https://www.udemy.com/masteringssis2016/
